@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Amin Bakhtiari 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Amin!  
 
 ---
 An Industrial Data Scientist passionate about leveraging data science and machine learning to drive innovation in the industrial sector, pushing forward the principles of Industry 4.0
