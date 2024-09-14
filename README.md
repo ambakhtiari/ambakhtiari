@@ -28,7 +28,7 @@ An Industrial Data Scientist passionate about leveraging data science and machin
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/amin-bakhtiari-industry4/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" height="60"/> 
 </a>
 
 ---
