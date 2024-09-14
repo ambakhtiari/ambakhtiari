@@ -16,6 +16,12 @@ An Industrial Data Scientist passionate about leveraging data science and machin
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL logo" width="65" height="75">
 
 
+---
+📈 My Github Stats
+
+![ambakhtiari's Stats](https://github-readme-stats.vercel.app/api?username=ambakhtiari&theme=default&show_icons=true&hide_border=true&count_private=true)
+![ambakhtiari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambakhtiari&theme=default&hide_border=true)
+---
 
 
 
