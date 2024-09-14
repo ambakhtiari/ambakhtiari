@@ -6,15 +6,15 @@ An Industrial Data Scientist passionate about leveraging data science and machin
 - 🔭 I’m currently working on designing and implementing digital twins to our lab beer brewing setup @ TU Dortmund RIF Institute.
 - 🌱 I’m currently learning Microsoft Azure and other Cloud techs.
 
+--- 
+🧰 Toolbox
 
-With hands-on experience in multiple industrial projects, I specialize in:
-- Python
-- NumPy
-- Pandas
-- Scikit-learn (sklearn)
-- TensorFlow
-- SQL
-- Power BI
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="56"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="Numpy logo" width="50" height="56">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-plain-wordmark.svg" alt="Pandas logo" width="50" height="56">
+<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn logo" width="70" height="65">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow logo" width="50" height="56">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" alt="MySQL logo" width="65" height="75">
+
 
 
 
@@ -26,7 +26,6 @@ With hands-on experience in multiple industrial projects, I specialize in:
 </a>
 
 ---
-
 
 
 
