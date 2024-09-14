@@ -22,7 +22,7 @@ With hands-on experience in multiple industrial projects, I specialize in:
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/amin-bakhtiari-industry4/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> LinkedIn
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> 
 </a>
 
 ---
